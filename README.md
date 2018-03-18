@@ -12,37 +12,27 @@
 ![TOP Lang](https://img.shields.io/github/languages/top/OSWeekends/agile-project-template.svg)
 ![total lang](https://img.shields.io/github/languages/count/OSWeekends/agile-project-template.svg)
 
-# OSWeekends Agile project Template
+# Read for kids
 
-> Un punto de partida para organizar tu próximo proyecto usando nuestra metodología ágil dentro de un Guild.
-
-
-En este repositorio almacenaremos todas las plantillas y recursos para inicializar un proyecto en Github como Guild :-)
+> La aplicación con la que aprenderán a leer tus hijos.
 
 **Motivación**
 
-Queremos reducir la curva de entrada a nuev@s contributors en proyectos Open SOurce dentro de nuestra organización. Para ello hemos organizado plantillas que aterrizan toda nuestra filosofía de una manera fácil y directa.
+Queremos que cualquier niño pueda tener acceso al aprendizaje de la lectura con el apoyo de herramientas tecnológicas.
+
+Con ese punto de partida queremos construir una aplicación multiplataforma con la que un niño pueda aprender a leer, o al menos sirva de apoyo al aprendizaje, de una forma divertida y con la mayor autonomía posible.
 
 ### Equipo
 
- - [ Theba Gomez (@KoolTheba)](https://github.com/integrante1) (Leader)
- - [ Jorge Baumann (@baumannzone)](https://github.com/baumannzone) (Contributor)
+ - [ Joaquín Fernández (@jfpernas)](https://github.com/jfpernas) (Leader)
  - [ Borja Godoy (@borjagodoy)](https://github.com/borjagodoy) (Contributor)
- - [ Jacinto J. Cruz Nieto (@jacintoj)](https://github.com/jacintoj) (Contributor)
- - [ Victoria Solis (@vickysolo)](https://github.com/vickysolo) (Contributor)
- - [ Ulises Gascón(@ulisesgascon)](https://github.com/ulisesgascon) (Leader)
- - [ Irene M Morgado (@irnmm)](https://twitter.com/irnmm?lang=es) (Contributor)
- - [ Chelo Quilón (@lilxelo)](https://github.com/lilxelo) (Contributor)
- - [ Javier Gallego Martín (@bifuer)](https://github.com/bifuer) (Contributor)
- - [ Carlos Hernandez (@codingcarlos)](https://github.com/codingcarlos) (Contributor)
+ - [ Jorge Baumann (@baumannzone)](https://github.com/baumannzone) (Contributor)
 
 ##### Agradecimientos
 
- - [ Ángel Corral Arias (@ancoar)](https://github.com/ancoar)
-
 ##### Necesitamos
 
-_No tenemos posiciones abiertas por el momento_
+Diseñadores, Frontends y Backends, logopedas, profesores, y por supuesto cualquiera con ganas de aportar ideas.
 
 ### Demo
 
@@ -50,16 +40,19 @@ _No tenemos demo disponible por el momento_
 
 ### Tecnología utilizada
 
+- ionic
+- pillars
+- mongo
+
 #### Dependencias
 - **Plataforma de Github**: Para facilitar el clonado
 - **Markdown**: Para mejorar la sintaxis y la semantica
 
 ### Cómo contribuir en el proyecto
 
-
 **Más informacion en [CONTRIBUTING.md](CONTRIBUTING.md)**
 
-### ¿Cómo usarlo?.
+### ¿Cómo usarlo?
 
 #### TL:DR;
 
