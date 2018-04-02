@@ -1,4 +1,4 @@
-![header](other/img/OSW-project-GitHub-template-header.jpg)
+![header](docs/img/OSW-project-GitHub-template-header.jpg)
 
 
 
@@ -107,4 +107,4 @@ GNU General Public License v3.0
 
 
 
-![footer](other/img/OSW-project-GitHub-template-footer.jpg)
+![footer](docs/img/OSW-project-GitHub-template-footer.jpg)
